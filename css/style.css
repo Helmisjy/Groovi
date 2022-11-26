@@ -475,14 +475,14 @@
         
         .products-container .box .content span {
             padding: 0 1rem;
-            color: var(--text-color);
+            color: var(--bg-color);
             background: var(--main-color);
             border-radius: 4px;
-            font-weight: 500;
+            font-weight: 200;
         }
         
         .products-container .box .content a {
-            padding: 0 2rem;
+            padding: 0 1rem;
             color: var(--text-color);
             border: 2px solid var(--main-color);
             border-radius: 4px;
